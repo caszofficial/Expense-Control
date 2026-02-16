@@ -11,9 +11,6 @@
     "seed": "tsx src/db/seed.ts",
     "test": "jest"
   },
-  "keywords": ["expense", "api", "typescript"],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
